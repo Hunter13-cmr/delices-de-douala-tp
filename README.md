@@ -149,11 +149,11 @@ ng deploy
 
 ## 👨‍💻 Auteur
 
-Développé par ELOCK SADRACK FIDELE
-Projet Angular – Formation Développement Web Front-end Angular Talent Lab 2026 (Orange Digital Center)
+Développé par **ELOCK SADRACK FIDELE**
+**Projet Angular – Formation Développement Web Front-end Angular Talent Lab 2026 (Orange Digital Center)**
 
 📜 Licence
 
-Projet académique – libre d’utilisation à des fins éducatives.
+**Projet académique – libre d’utilisation à des fins éducatives.**
 
 ---

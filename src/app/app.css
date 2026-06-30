@@ -1,0 +1,47 @@
+.container{
+
+    max-width:1400px;
+
+    margin:auto;
+
+    padding:30px;
+
+}
+
+.toolbar{
+
+    display:flex;
+
+    justify-content:flex-end;
+
+    margin-bottom:25px;
+
+}
+
+.filter-btn{
+
+    background:#2e7d32;
+
+    color:white;
+
+    border:none;
+
+    padding:12px 18px;
+
+    border-radius:8px;
+
+    cursor:pointer;
+
+    font-size:15px;
+
+    transition:.3s;
+
+}
+
+.filter-btn:hover{
+
+    background:#1b5e20;
+
+    transform:translateY(-2px);
+
+}

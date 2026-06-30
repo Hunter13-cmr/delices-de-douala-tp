@@ -4,6 +4,6 @@
 
     grid-template-columns:repeat(auto-fit,minmax(320px,1fr));
 
-    gap:25px;
+    gap:26px;
 
 }

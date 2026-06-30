@@ -13,9 +13,9 @@
 
 ---
 
-🎬 Aperçu (GIF recommandé)
+🎬 Aperçu du projet
 
-![Demo](src/assets/images/demo/delices.gif)
+![Demo](src/assets/demo/delices.gif)
 
 ---
 

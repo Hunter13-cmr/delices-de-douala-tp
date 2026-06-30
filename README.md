@@ -15,7 +15,7 @@
 
 🎬 Aperçu (GIF recommandé)
 
-![Demo](src/assets/images/demo/delice.gif)
+![Demo](src/assets/images/demo/delices.gif)
 
 ---
 
@@ -102,8 +102,8 @@ src/
 ![List](src/assets/screenshots/restaurant-list.png)
 
 ### ⭐ Notation
-![Rating](src/assets/screenshots/notation1.png)
-![Rating](src/assets/screenshots/notation2.png)
+![Rating](src/assets/screenshots/notation-1.png)
+![Rating](src/assets/screenshots/notation-2.png)
 
 ---
 

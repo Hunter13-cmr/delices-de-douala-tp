@@ -15,7 +15,7 @@
 
 🎬 Aperçu (GIF recommandé)
 
-![Demo](assets/demo/delice.gif)
+![Demo](src/assets/demo/delice.gif)
 
 ---
 
@@ -96,21 +96,21 @@ src/
 ## 📸 Screenshots
 
 ### 🏠 Page d'accueil
-![Home](assets/screenshots/home.png)
+![Home](src/assets/screenshots/home.png)
 
 ### 🍽️ Liste restaurant
-![List](assets/screenshots/restaurant-list.png)
+![List](src/assets/screenshots/restaurant-list.png)
 
 ### ⭐ Notation
-![Rating](assets/screenshots/notation1.png)
-![Rating](assets/screenshots/notation2.png)
+![Rating](src/assets/screenshots/notation1.png)
+![Rating](src/assets/screenshots/notation2.png)
 
 ---
 
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/delices-de-douala.git
+git clone https://github.com/Hunter13-cmr/delices-de-douala-tp.git
 cd delices-de-douala
 npm install
 ng serve
@@ -156,4 +156,3 @@ Développé par **ELOCK SADRACK FIDELE**
 
 **Projet académique – libre d’utilisation à des fins éducatives.**
 
----

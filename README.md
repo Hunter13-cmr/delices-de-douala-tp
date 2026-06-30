@@ -1,59 +1,159 @@
-# DelicesTp
+# 🍴 Délices de Douala — Premium Portfolio Project
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.0.1.
+![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![RxJS](https://img.shields.io/badge/Reactive-Signals-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
+![License](https://img.shields.io/badge/license-academic-lightgrey?style=for-the-badge)
 
-## Development server
+---
 
-To start a local development server, run:
+## 🚀 Live Demo
+👉 https://delices-de-douala-tp-pink.vercel.app/
+
+---
+
+🎬 Aperçu (GIF recommandé)
+
+![Demo](assets/demo/delice.gif)
+
+---
+
+## 📌 Présentation
+
+**Délices de Douala** est une application web moderne développée avec Angular permettant de découvrir, explorer et noter les restaurants de Douala.
+L'application met l'accent sur **l'interactivité en temps réel**, **un design UI/UX moderne** et **une gestion d'état réactive grâce aux Signals d'Angular**.
+
+---
+
+## ✨ Fonctionnalités principales
+
+---
+
+## ⭐ Système de notation intelligent
+Notation interactive de 1 à 5 étoiles
+Aperçu au survol avec messages dynamiques
+Mise à jour instantanée de l’état via les Signals Angular
+
+---
+
+## 📊 Tableau de bord analytique en temps réel
+Nombre de restaurants notés
+Calcul de la moyenne des notes
+Mises à jour automatiques en temps réel
+
+---
+
+## 🔎 Filtrage intelligent
+Affichage de tous les restaurants
+Filtrage des restaurants notés ≥ 4 étoiles
+
+---
+
+## 🖼️ Interface utilisateur moderne (UI/UX)
+Design responsive (mobile-first)
+Cartes de restaurants avec images
+Effets d’animation au survol
+En-tête propre avec image de fond
+
+---
+
+## 🧠 Points techniques clés
+Composants Angular autonomes (Standalone Components)
+Gestion d’état basée sur les Signals
+Mises à jour réactives de l’interface (sans manipulation directe du DOM)
+Architecture orientée composants
+Séparation claire des responsabilités
+
+---
+
+## 🏗️ Project Architecture
+
+```text
+src/
+│
+├── app/
+│   ├── components/
+│   │   ├── header/
+│   │   ├── restaurant-list/
+│   │   ├── restaurant-card/
+│   │   └── star-rating/
+│   │
+│   ├── models/
+│   │   └── restaurant.ts
+│   │
+│   ├── app.ts
+│   ├── app.html
+│   └── app.css
+│
+├── assets/
+│   ├── images/
+│       ├────demo/
+```
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Page d'accueil
+![Home](assets/screenshots/home.png)
+
+### 🍽️ Liste restaurant
+![List](assets/screenshots/restaurant-list.png)
+
+### ⭐ Notation
+![Rating](assets/screenshots/notation1.png)
+![Rating](assets/screenshots/notation2.png)
+
+---
+
+## ⚙️ Installation
 
 ```bash
+git clone https://github.com/your-username/delices-de-douala.git
+cd delices-de-douala
+npm install
 ng serve
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+👉 Accès : http://localhost:4200
 
-## Code scaffolding
+---
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+## 📦 Production Build
 
 ```bash
-ng generate --help
+ng build --configuration production
 ```
 
-## Building
+---
 
-To build the project run:
+## 🌍 Deployment (GitHub Pages)
 
 ```bash
-ng build
+ng add angular-cli-ghpages
+ng deploy
 ```
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+---
 
-## Running unit tests
+## 🚀 Améliorations futures
+- 🔐 Authentification utilisateur
+- 💬 Système de commentaires
+- ❤️ Favoris
+- 📍 Géolocalisation des restaurants
+- ☁️ Backend API (Firebase / Node.js)
+- 📱 Version mobile PWA
 
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
+---
 
-```bash
-ng test
-```
+## 👨‍💻 Auteur
 
-## Running end-to-end tests
+Développé par ELOCK SADRACK FIDELE
+Projet Angular – Formation Développement Web Front-end Angular Talent Lab 2026 (Orange Digital Center)
 
-For end-to-end (e2e) testing, run:
+📜 Licence
 
-```bash
-ng e2e
-```
+Projet académique – libre d’utilisation à des fins éducatives.
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+---

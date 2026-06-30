@@ -15,7 +15,7 @@
 
 🎬 Aperçu (GIF recommandé)
 
-![Demo](src/assets/demo/delice.gif)
+![Demo](src/assets/images/demo/delice.gif)
 
 ---
 
